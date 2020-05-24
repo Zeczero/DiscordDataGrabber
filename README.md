@@ -1,5 +1,5 @@
 # Discord-Data-Grabber
-This is a simple program that allows you to get the data (like email, phone numbers etc..) from the infected victim
+This is a simple program that allows you to get the data (like discord token, email, phone numbers etc..) from the infected victim
 
 ## 🤔 How does it work
 It simply goes to the directory where the file that stores a token is placed, grabs the token and sends it to you via webhook (another proof that discord does nothing about it).
