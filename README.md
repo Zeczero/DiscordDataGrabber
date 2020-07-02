@@ -11,4 +11,6 @@ Just create a webhook on your discord server, copy the link and pass it in "webh
 Telegram: Zeczero
 
 ### ⚠️ Warning
+Some of its functions are bugged and don't work on some devices.
+
 I do not take any responsibility for the usage of this program. This was made and uploaded for educational purposes only.
