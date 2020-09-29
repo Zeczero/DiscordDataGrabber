@@ -8,7 +8,7 @@ It simply goes to the directory where the file that stores a token is placed gra
 Just create a webhook on your discord server, copy the link and pass it in "webhook" variable.
 
 ### 📬 Contact
-PGP: [0x6B1AB3CFEEC6A417](https://gist.github.com/Zeczero/908edd725cf297366e0f30c82958901d)
+PGP: [0x5648078DA6AE5EF1](https://gist.github.com/Zeczero/908edd725cf297366e0f30c82958901d)
 
 ### ⚠️ Warning
 Some of its functions are bugged and don't work on some devices.
