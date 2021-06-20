@@ -10,7 +10,11 @@ Just create a webhook on your discord server, copy the link and pass it in "webh
 ### 📬 Contact
 PGP: [0x73D6849A](https://gist.github.com/Zeczero/908edd725cf297366e0f30c82958901d)
 
-### ⚠️ Warning
-Some of its functions are bugged and don't work on some devices.
+### ⚠️ Update 2021
+✅ Fixed various bugs related to the functionality of this program
+✅ Corrected the structure of a code
+✅ Rewrote it in more object-oriented way
+✅ Improved the performance
+✅ Included CPU/OS information of the victim
 
-I do not take any responsibility for the usage of this program. This was made and uploaded for educational purposes only.
+This is made for educational purposes only. 
