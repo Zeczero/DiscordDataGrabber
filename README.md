@@ -13,7 +13,7 @@ PGP: [0x73D6849A](https://gist.github.com/Zeczero/908edd725cf297366e0f30c8295890
 ### ⚠️ Update 2021
 ✅ Fixed various bugs related to the functionality of this program<br/>
 ✅ Corrected the structure of a code<br/>
-✅ Rewrote it in more object-oriented way<br/>
+✅ Rewrote it in a more object-oriented way<br/>
 ✅ Improved the performance<br/>
 ✅ Included CPU/OS information of the victim<br/>
 
