@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\Coding\Discord Token Grabber\Discord Token Grabber\bin\Debug\DiscordDataGrabber.exe.config
+C:\Users\admin\Desktop\Coding\Discord Token Grabber\Discord Token Grabber\bin\Debug\DiscordDataGrabber.exe
+C:\Users\admin\Desktop\Coding\Discord Token Grabber\Discord Token Grabber\bin\Debug\DiscordDataGrabber.pdb
+C:\Users\admin\Desktop\Coding\Discord Token Grabber\Discord Token Grabber\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\Coding\Discord Token Grabber\Discord Token Grabber\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\Coding\Discord Token Grabber\Discord Token Grabber\obj\Debug\DiscordTokenGrabber.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Coding\Discord Token Grabber\Discord Token Grabber\obj\Debug\DiscordTokenGrabber.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Coding\Discord Token Grabber\Discord Token Grabber\obj\Debug\DiscordTokenGrabber.csproj.CopyComplete
+C:\Users\admin\Desktop\Coding\Discord Token Grabber\Discord Token Grabber\obj\Debug\DiscordDataGrabber.exe
+C:\Users\admin\Desktop\Coding\Discord Token Grabber\Discord Token Grabber\obj\Debug\DiscordDataGrabber.pdb

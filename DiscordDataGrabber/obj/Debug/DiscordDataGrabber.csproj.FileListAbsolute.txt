@@ -1,0 +1,20 @@
+C:\Users\admin\Desktop\Coding\DiscordDataGrabber\Discord Token Grabber\bin\Debug\DiscordDataGrabber.exe.config
+C:\Users\admin\Desktop\Coding\DiscordDataGrabber\Discord Token Grabber\bin\Debug\DiscordDataGrabber.exe
+C:\Users\admin\Desktop\Coding\DiscordDataGrabber\Discord Token Grabber\bin\Debug\DiscordDataGrabber.pdb
+C:\Users\admin\Desktop\Coding\DiscordDataGrabber\Discord Token Grabber\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\Coding\DiscordDataGrabber\Discord Token Grabber\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\Coding\DiscordDataGrabber\Discord Token Grabber\obj\Debug\DiscordDataGrabber.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Coding\DiscordDataGrabber\Discord Token Grabber\obj\Debug\DiscordDataGrabber.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Coding\DiscordDataGrabber\Discord Token Grabber\obj\Debug\DiscordDataGrabber.csproj.CopyComplete
+C:\Users\admin\Desktop\Coding\DiscordDataGrabber\Discord Token Grabber\obj\Debug\DiscordDataGrabber.exe
+C:\Users\admin\Desktop\Coding\DiscordDataGrabber\Discord Token Grabber\obj\Debug\DiscordDataGrabber.pdb
+C:\Users\admin\Desktop\Coding\DiscordDataGrabber\DiscordDataGrabber\bin\Debug\DiscordDataGrabber.exe.config
+C:\Users\admin\Desktop\Coding\DiscordDataGrabber\DiscordDataGrabber\bin\Debug\DiscordDataGrabber.exe
+C:\Users\admin\Desktop\Coding\DiscordDataGrabber\DiscordDataGrabber\bin\Debug\DiscordDataGrabber.pdb
+C:\Users\admin\Desktop\Coding\DiscordDataGrabber\DiscordDataGrabber\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\Coding\DiscordDataGrabber\DiscordDataGrabber\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\Coding\DiscordDataGrabber\DiscordDataGrabber\obj\Debug\DiscordDataGrabber.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Coding\DiscordDataGrabber\DiscordDataGrabber\obj\Debug\DiscordDataGrabber.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Coding\DiscordDataGrabber\DiscordDataGrabber\obj\Debug\DiscordDataGrabber.csproj.CopyComplete
+C:\Users\admin\Desktop\Coding\DiscordDataGrabber\DiscordDataGrabber\obj\Debug\DiscordDataGrabber.exe
+C:\Users\admin\Desktop\Coding\DiscordDataGrabber\DiscordDataGrabber\obj\Debug\DiscordDataGrabber.pdb
