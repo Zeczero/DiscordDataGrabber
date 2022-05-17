@@ -18,3 +18,4 @@ PGP: [0x73D6849A](https://gist.github.com/Zeczero/908edd725cf297366e0f30c8295890
 ✅ Included CPU/OS information of the victim<br/>
 
 This is made for educational purposes only. 
+WIP
