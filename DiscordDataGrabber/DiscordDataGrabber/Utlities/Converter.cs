@@ -8,7 +8,7 @@ namespace DiscordDataGrabber.Utlities
     {
         public static readonly JsonSerializerSettings Settings = new JsonSerializerSettings
         {
-            // SHITSHITSHIT 
+            
             MetadataPropertyHandling = MetadataPropertyHandling.Ignore,
             DateParseHandling = DateParseHandling.None,
             Converters =
